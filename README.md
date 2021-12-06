@@ -7,3 +7,13 @@ use leetcode to improve programming skill
 // 双指针减少时间复杂度的原理 ： // <https://code-thinking.cdn.bcebos.com/gifs/977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.gif>
 
 // o(n^2) 是一个矩阵， 那么双指针相关于从矩阵的右上角触发， 向下或者向左走，可以排除一列的尝试次数。 将 o(n^2)  优化到 o(n), 一般使us用于单调递增/递减的场景
+
+[x] 双指针
+[x] 滑动窗口
+
+
+TODO: 1 。回溯
+2。 DFS。 BFS
+
+3。 全排列 
+4： 公共祖先
